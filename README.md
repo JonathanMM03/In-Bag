@@ -39,6 +39,17 @@ El proyecto utiliza las siguientes librerías:
 | **Buzzer**       | 1    | Activo al recibir una señal          |
 | **Sensor A3144** | 3    | Salida de datos del sensor            |
 
+## 📊 Imágenes del Proyecto
+
+### Conexiones del ESP32 Super Mini
+
+![Conexiones del ESP32 Super Mini](esp32-super-mini-conections.jpeg)
+
+### Esquemático del Proyecto
+
+![Esquemático del Proyecto](esp32-super-mini-esquematico.jpeg)
+
+
 ## 🤝 Contribuciones
 
 Si deseas contribuir a este proyecto, siéntete libre de hacer un fork y enviar pull requests.
